@@ -1,0 +1,18 @@
+{
+	"name" : "Sindikatbe-template",
+	"version" : "1.0.0",
+	"description" : "Boilerplate to run Grunt",
+	"main" : "main.js",
+	"scripts" : {
+		"test" : "echo \"Error: no test specified\" && exit 1"
+	},
+	"author" : "Zeljko Andjelic",
+	"licence" : "ISC",
+	"devDependencies" : {
+		"grunt" : "^1.0.1",
+		"grunt-contrib-sass":"^1.0.0",
+		"grunt-contrib-watch":"^1.0.0",
+		"jade": "^1.11.0",
+		"grunt-contrib-jade": "^1.0.0"
+	}
+}
